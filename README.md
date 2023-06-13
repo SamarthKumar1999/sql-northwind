@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/81953271/124010886-b571ca80-d9df-11eb-86ac-b358c48ac6aa.png" width="200" height="200" alt="Octocat" title="Github logo">
-
 # Microsoft
 ```plaintext
 ███╗░░██╗░█████╗░██████╗░████████╗██╗░░██╗░██╗░░░░░░░██╗██╗███╗░░██╗██████╗░
@@ -19,3 +17,6 @@ The Northwind database is a fictional sample database used for learning and prac
 Beginning, intermediate, and advanced scenario based challenges.
 
 **Sylvia Moestl Vasilik**
+
+<img src="https://community.openlinksw.com/uploads/default/original/1X/900fdfe2835a685d6ca88401ed32f4cd1d60ed4e.jpeg" width="700" height="500" alt="Northwind Schema" title="Northwind Schema">
+
